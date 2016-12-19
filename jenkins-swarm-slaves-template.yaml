@@ -239,7 +239,7 @@
         {
             "name": "GIT_URI",
             "description": "Git Repository",
-            "value": "https://github.com/antoniogallegosaez/ose-jenkins-cluster.git"
+            "value": "https://github.com/antoniogallegosaez/jenkins-cluster.git"
         },
         {
             "name": "GIT_REF",
