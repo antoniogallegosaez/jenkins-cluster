@@ -14,7 +14,7 @@ parameters:
 - description: Git source URI for Jenkins S2I
   name: SOURCE_REPOSITORY_URL
   required: true
-  value: https://github.com/antoniogallegosaez/jenkins-cluster.git.git
+  value: https://github.com/antoniogallegosaez/jenkins-cluster.git
 - description: Git branch/tag reference
   name: SOURCE_REPOSITORY_REF
   value: master
