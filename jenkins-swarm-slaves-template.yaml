@@ -61,7 +61,7 @@
                   }
               ],
               "selector": {
-                  "name": "${APPLICATION_NAME}"
+                  "app": "${APPLICATION_NAME}"
               },
               "portalIP": "",
               "type": "ClusterIP",
